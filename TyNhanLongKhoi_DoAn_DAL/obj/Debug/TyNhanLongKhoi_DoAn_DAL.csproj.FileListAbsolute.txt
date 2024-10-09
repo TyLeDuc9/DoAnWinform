@@ -1,0 +1,6 @@
+D:\C#\TyNhanLongKhoi_DoAn_DAL\bin\Debug\TyNhanLongKhoi_DoAn_DAL.dll
+D:\C#\TyNhanLongKhoi_DoAn_DAL\bin\Debug\TyNhanLongKhoi_DoAn_DAL.pdb
+D:\C#\TyNhanLongKhoi_DoAn_DAL\obj\Debug\TyNhanLongKhoi_DoAn_DAL.csproj.AssemblyReference.cache
+D:\C#\TyNhanLongKhoi_DoAn_DAL\obj\Debug\TyNhanLongKhoi_DoAn_DAL.csproj.CoreCompileInputs.cache
+D:\C#\TyNhanLongKhoi_DoAn_DAL\obj\Debug\TyNhanLongKhoi_DoAn_DAL.dll
+D:\C#\TyNhanLongKhoi_DoAn_DAL\obj\Debug\TyNhanLongKhoi_DoAn_DAL.pdb

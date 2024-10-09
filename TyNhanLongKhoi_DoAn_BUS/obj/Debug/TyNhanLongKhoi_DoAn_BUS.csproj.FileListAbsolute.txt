@@ -1,0 +1,9 @@
+D:\C#\TyNhanLongKhoi_DoAn_BUS\bin\Debug\TyNhanLongKhoi_DoAn_BUS.dll
+D:\C#\TyNhanLongKhoi_DoAn_BUS\bin\Debug\TyNhanLongKhoi_DoAn_BUS.pdb
+D:\C#\TyNhanLongKhoi_DoAn_BUS\bin\Debug\TyNhanLongKhoi_DoAn_DAL.dll
+D:\C#\TyNhanLongKhoi_DoAn_BUS\bin\Debug\TyNhanLongKhoi_DoAn_DAL.pdb
+D:\C#\TyNhanLongKhoi_DoAn_BUS\obj\Debug\TyNhanLongKhoi_DoAn_BUS.csproj.AssemblyReference.cache
+D:\C#\TyNhanLongKhoi_DoAn_BUS\obj\Debug\TyNhanLongKhoi_DoAn_BUS.csproj.CoreCompileInputs.cache
+D:\C#\TyNhanLongKhoi_DoAn_BUS\obj\Debug\TyNhanLo.6034493A.Up2Date
+D:\C#\TyNhanLongKhoi_DoAn_BUS\obj\Debug\TyNhanLongKhoi_DoAn_BUS.dll
+D:\C#\TyNhanLongKhoi_DoAn_BUS\obj\Debug\TyNhanLongKhoi_DoAn_BUS.pdb
